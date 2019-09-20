@@ -1,0 +1,8 @@
+prefix=/home/nlw/datafusion_ws/src/EKF_Fusion/cmake-build-debug/devel
+
+Name: EKF_Fusion
+Description: Description of EKF_Fusion
+Version: 0.0.0
+Cflags: -I/home/nlw/datafusion_ws/src/EKF_Fusion/include
+Libs: -L/home/nlw/datafusion_ws/src/EKF_Fusion/cmake-build-debug/devel/lib 
+Requires: geometry_msgs nav_msgs roscpp sensor_msgs std_msgs tf

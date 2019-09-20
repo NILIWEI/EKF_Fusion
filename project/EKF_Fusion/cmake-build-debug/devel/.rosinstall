@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/nlw/datafusion_ws/src/EKF_Fusion/cmake-build-debug/devel/setup.sh
